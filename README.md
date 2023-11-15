@@ -2,11 +2,9 @@
 
 ## Описание
 
-Репозиторий-шаблон для микрофронтэндов, основанный на [module federation](https://module-federation.io/)
+Репозиторий-шаблон основанный на [module federation](https://module-federation.io/)
 
-Можно клонировать и на основе него писать микрофронтэнды.
-
-Для этого достаточно доработать файл конфиг - `mf.config.js`
+Конфиг module federation - `mf.config.js`
 
 ## Краткое изложение про Module Federation
 
