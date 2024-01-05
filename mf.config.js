@@ -24,7 +24,7 @@ module.exports = (deps, isDev) => {
       filename: BUNDLE_NAME,
       // imporeted module
       exposes: {
-        './OperatorPhone': './src/OperatorPhone/OperatorPhone.tsx',
+        // some path,
       },
       // exported module
       remotes: {
